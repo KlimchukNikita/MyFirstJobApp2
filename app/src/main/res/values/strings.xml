@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstJobApp2</string>
+    <string name="title_video">Video</string>
+    <string name="title_tests">Tests</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_story">Story</string>
+    <string name="title_profile">Profile</string>
+</resources>

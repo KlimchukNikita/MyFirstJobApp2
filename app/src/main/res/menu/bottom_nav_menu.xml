@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/baseline_movie_creation_black_48dp"
+        android:title="@string/title_video" />
+
+    <item
+        android:id="@+id/navigation_tests"
+        android:icon="@drawable/baseline_check_box_black_48dp"
+        android:title="@string/title_tests" />
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/baseline_camera_black_48dp"
+        android:title="@string/title_camera" />
+
+    <item
+        android:id="@+id/navigation_story"
+        android:icon="@drawable/baseline_receipt_black_48dp"
+        android:title="@string/title_story" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_mood_black_48dp"
+        android:title="@string/title_profile" />
+
+</menu>
